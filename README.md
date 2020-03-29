@@ -4,8 +4,8 @@ python3<br>
 requests<br>
 colorama<br>
 # install and use
-git clone 
-cd SPB<br>
+git clone  https://github.com/usernamedrew/SPB
+cd SPB<br> 
 python3 SPB.py<br>
 >> number phone
 
